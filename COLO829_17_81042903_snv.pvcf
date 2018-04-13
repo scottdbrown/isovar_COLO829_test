@@ -1,0 +1,17 @@
+##reference=hg19a_jg-e69
+##	File	2016-Aug-10(Wed)	generated	at	60	PASS	ns=1
+##	Using	parameters:	the	following	60	PASS	ns=1
+##	igv		=>	True	60	PASS	ns=1
+##	bed_file		=>	/projects/tumour_char/pog/somatic/small_mutations/snv/POG616/P01606_P01598/snv-preprocess_v0.2.1/annotate_snv_domains_v1.0.1/variants.bed	60	PASS	ns=1
+##	igvhost		=>	10.9.202.61	60	PASS	ns=1
+##	igvport		=>	60151	60	PASS	ns=1
+##	igvzoom		=>	20	60	PASS	ns=1
+##	failed		=>	/projects/tumour_char/pog/somatic/small_mutations/snv/POG616/P01606_P01598/snv-preprocess_v0.2.1/annotate_snv_domains_v1.0.1/POG616.P01606_P01598.failed.somatic.coding.snvs.merged.annotated.txt	60	PASS	ns=1
+##	passed		=>	/projects/tumour_char/pog/somatic/small_mutations/snv/POG616/P01606_P01598/snv-preprocess_v0.2.1/annotate_snv_domains_v1.0.1/POG616.P01606_P01598.passed.somatic.coding.snvs.merged.annotated.txt	60	PASS	ns=1
+##	fail		=>	/projects/tumour_char/pog/somatic/small_mutations/snv/POG616/P01606_P01598/snv-preprocess_v0.2.1/annotate_snv_domains_v1.0.1/POG616.P01606_P01598.failed.somatic.coding.snvs.merged.annotated.txt	60	PASS	ns=1
+##	input		=>	/projects/tumour_char/pog/somatic/small_mutations/snv/POG616/P01606_P01598/snv-preprocess_v0.2.1/annotate_snv_domains_v1.0.1/POG616_P01606_P01598.all.somatic.coding.snvs.merged.annotated.txt	60	PASS	ns=1
+##	config		=>	/projects/tumour_char/analysis_scripts/SVIA/variant_igv_review/tags/v0.2.2/variant_igv_review.cfg	60	PASS	ns=1
+##	overwrite		=>	False	60	PASS	ns=1
+##					60	PASS	ns=1
+#chromosome	pos	dbsnp	ref	alt	60	PASS	ns=1
+17	81042903	NA	G	C	60	PASS	ns=1

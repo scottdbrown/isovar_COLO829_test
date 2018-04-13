@@ -1,0 +1,2 @@
+,chr,pos,ref,alt,amino_acids,variant_aa_interval_start,variant_aa_interval_end,ends_with_stop_codon,frameshift,translations,overlapping_reads,ref_reads,alt_reads,alt_reads_supporting_protein_sequence,transcripts_overlapping_variant,transcripts_supporting_protein_sequence,gene
+0,17,81042903,G,C,MYPTAALIVNLRPNTF,4,5,False,False,1,241,201,40,38,3,2,METRNL
